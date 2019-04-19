@@ -1,0 +1,14 @@
+{
+  "name": "crimsonic",
+  "version": "0.0.1",
+  "description": "",
+  "main": "crimson.js",
+  "scripts": {
+    "test": "node crimson.js"
+  },
+  "author": "Yavuzokann",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
