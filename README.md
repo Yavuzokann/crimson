@@ -1,9 +1,9 @@
 Kurulum - Windows
 
-1. Adım: Node.JS programını kurun. (nodejs.org)
-2. Adım: Projeyi bilgisayarınıza indirin.
-3. Adım: Proje dosyalarını açın, proje dosyalarının olduğu klasörde komut penceresini açın (Ctrl+Sağ tık > komut penceresini burada aç)
-4. Adım: Açılan komut penceresine npm install komutunu yazın ve modüllerin yüklenmesini bekleyin.
-5. Adım: Ayarlar.json dosyasını açıp ayarlarınızı yapın.
-6. Adım: Modüller yüklendikten sonra, komut penceresine node bot.js komutunu yazın ve botu çalıştırın.
-Botun altyapısı için kullandığım kaynak: https://github.com/AnIdiotsGuide/Tutorial-Bot
+1. AdÄ±m: Node.JS programÄ±nÄ± kurun. (nodejs.org)
+2. AdÄ±m: Projeyi bilgisayarÄ±nÄ±za indirin.
+3. AdÄ±m: Proje dosyalarÄ±nÄ± aÃ§Ä±n, proje dosyalarÄ±nÄ±n olduÄŸu klasÃ¶rde komut penceresini aÃ§Ä±n (Shift+SaÄŸ tÄ±k > komut penceresini burada aÃ§)
+4. AdÄ±m: AÃ§Ä±lan komut penceresine npm install komutunu yazÄ±n ve modÃ¼llerin yÃ¼klenmesini bekleyin.
+5. AdÄ±m: ayarlar.json dosyasÄ±nÄ± aÃ§Ä±p ayarlarÄ±nÄ±zÄ± yapÄ±n.
+6. AdÄ±m: ModÃ¼ller yÃ¼klendikten sonra, komut penceresine node bot.js komutunu yazÄ±n ve botu Ã§alÄ±ÅŸtÄ±rÄ±n.
+Botun altyapÄ±sÄ± iÃ§in kullandÄ±ÄŸÄ±m kaynak: https://github.com/AnIdiotsGuide/Tutorial-Bot
