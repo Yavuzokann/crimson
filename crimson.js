@@ -97,4 +97,4 @@ client.on('guildMemberAdd' , (guild, user) => {
     }
   })
 
-client.login('NTY1MjYxMzY5MzY1MjMzNjc0.XK0AOA.3yPF0K-C7MnVuljBwGBECIDEIhc');
+client.login('NTY0OTIzMjU2MTQ3MDE3NzU3.XLl7gQ.HmlfoO-3Z2mr6OHsDcIJDrBLnKo');
